@@ -53,7 +53,7 @@ export default function ContactForm() {
         name="message"
         required
         rows={5}
-        placeholder="Parlez-moi rapidement de votre projet"
+        placeholder="Parlez-nous de votre projet"
         className={`${inputClass} resize-none`}
       />
 
